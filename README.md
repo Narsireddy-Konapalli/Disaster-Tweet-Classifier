@@ -25,19 +25,14 @@ A deep learning-based web app that classifies whether a tweet refers to a real d
 ## 🚀 How to Run the Project
 
 ### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/disaster-tweet-classifier.git
+git clone [https://github.com/your-username/disaster-tweet-classifier](https://github.com/Narsireddy-Konapalli/Disaster-Tweet-Classifier).git
 cd disaster-tweet-classifier
 
 ### 2. Install Dependencies
-
-```bash
 pip install -r requirements.txt
 
 
 ###3. Run the Streamlit App
-```bash
 streamlit run app.py
 
 
