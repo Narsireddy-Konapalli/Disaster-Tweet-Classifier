@@ -26,6 +26,7 @@ A deep learning-based web app that classifies whether a tweet refers to a real d
 
 ### 1. Clone the Repository
 git clone [https://github.com/your-username/disaster-tweet-classifier](https://github.com/Narsireddy-Konapalli/Disaster-Tweet-Classifier).git
+
 cd disaster-tweet-classifier
 
 ### 2. Install Dependencies
