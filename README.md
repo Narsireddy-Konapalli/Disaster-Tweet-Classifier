@@ -29,3 +29,15 @@ A deep learning-based web app that classifies whether a tweet refers to a real d
 ```bash
 git clone https://github.com/your-username/disaster-tweet-classifier.git
 cd disaster-tweet-classifier
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+
+
+###3. Run the Streamlit App
+```bash
+streamlit run app.py
+
+
