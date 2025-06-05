@@ -33,7 +33,7 @@ cd disaster-tweet-classifier
 pip install -r requirements.txt
 
 
-**3.Run the Streamlit App**
+***3.Run the Streamlit App***
 
 streamlit run app.py
 
